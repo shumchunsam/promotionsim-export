@@ -1,0 +1,196 @@
+================================================================================
+ROI CALCULATOR - FOR DRIVING SCHOOLS
+驾驶培训学校投资回报计算器
+================================================================================
+
+Generated: 2026-07-05
+Company: Foshan Easyly New Technology Co., Ltd.
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+CUSTOMER ROI INPUT FORM
+================================================================================
+
+Please fill in the following information to calculate your potential savings:
+
+1. TRAINING FLEET INFORMATION
+-----------------------------
+• How many training vehicles do you currently have? [___]
+• What is the average age of your vehicles? [___ years]
+• What type of vehicles? [___]
+
+2. FUEL COSTS
+--------------
+• How many liters of fuel does each vehicle use per day? [___ liters]
+• What is the current fuel price per liter in your country? [$___/L]
+• How many days per year do you train? [___ days]
+
+3. MAINTENANCE COSTS
+---------------------
+• What is the average monthly maintenance cost per vehicle? [$___]
+• How many vehicles need major repairs per year? [___]
+• What is the average cost per repair? [$___]
+
+4. INSURANCE COSTS
+-------------------
+• What is your annual insurance premium? [$___]
+• How many accidents occurred last year? [___]
+• What was the average cost per accident? [$___]
+
+5. TRAINING EFFICIENCY
+-----------------------
+• How many students can you train per day with current fleet? [___]
+• How many instructors do you have? [___]
+• What is your average student pass rate? [___%]
+• What is your average training duration per student? [___ hours]
+
+================================================================================
+ROI CALCULATION EXAMPLE
+================================================================================
+
+SAMPLE DATA (Medium-sized driving school in USA):
+-----------------------------------------------
+Students per year: 500
+Current training vehicles: 10
+Fuel cost per vehicle per day: $20
+Maintenance cost per vehicle per year: $3,000
+Insurance cost per vehicle per year: $2,000
+Accidents per year: 5
+Average repair cost per accident: $1,500
+Current simulator cost: $10,000 per unit
+
+ANNUAL COSTS BEFORE SIMULATOR:
+-------------------------------
+Fuel costs:
+  10 vehicles × $20/day × 250 days = $50,000
+
+Maintenance costs:
+  10 vehicles × $3,000/year = $30,000
+
+Insurance costs:
+  10 vehicles × $2,000/year = $20,000
+
+Repair costs:
+  5 accidents × $1,500 = $7,500
+
+TOTAL ANNUAL COSTS: $107,500
+
+ANNUAL COSTS WITH SIMULATOR:
+-----------------------------
+Assume 50% of training hours shift to simulator:
+
+Fuel costs (50% reduction):
+  $50,000 × 50% = $25,000
+
+Maintenance costs (50% reduction):
+  $30,000 × 50% = $15,000
+
+Insurance costs (50% reduction):
+  $20,000 × 50% = $10,000
+
+Repair costs (90% reduction - simulator is zero risk):
+  $7,500 × 10% = $750
+
+Simulator costs (1 unit + maintenance):
+  Purchase: $10,000 (one-time)
+  Annual maintenance: $500
+
+TOTAL ANNUAL COSTS: $51,250
+
+SAVINGS:
+---------
+Annual savings: $107,500 - $51,250 = $56,250
+ROI period: $10,000 ÷ $56,250 = 0.2 years (approximately 2.5 months)
+
+5-year total savings: $56,250 × 5 - $10,000 = $271,250
+
+================================================================================
+ROI TEMPLATES FOR DIFFERENT SCENARIOS
+================================================================================
+
+SCENARIO 1: Small Driving School (5 vehicles)
+----------------------------------------------
+• Annual costs before: $53,750
+• Annual costs after: $26,125
+• Annual savings: $27,625
+• ROI period: 4-5 months
+• 5-year savings: $128,125
+
+SCENARIO 2: Medium Driving School (10 vehicles)
+------------------------------------------------
+• Annual costs before: $107,500
+• Annual costs after: $51,250
+• Annual savings: $56,250
+• ROI period: 2-3 months
+• 5-year savings: $271,250
+
+SCENARIO 3: Large Driving School Chain (20 vehicles)
+----------------------------------------------------
+• Annual costs before: $215,000
+• Annual costs after: $102,500
+• Annual savings: $112,500
+• ROI period: 1-2 months
+• 5-year savings: $552,500
+
+SCENARIO 4: CDL/Truck Training Program
+---------------------------------------
+• Annual costs before: $200,000-$500,000
+• Annual costs after: 60-70% reduction
+• Annual savings: $120,000-$350,000
+• ROI period: 1-2 months
+• 5-year savings: $600,000-$1,750,000
+
+================================================================================
+ADDITIONAL BENEFITS (Non-financial)
+================================================================================
+
+1. SAFETY IMPROVEMENTS
+   • Zero accident risk during simulator training
+   • Safer learning environment for new drivers
+   • Reduced liability insurance claims
+
+2. TRAINING EFFICIENCY
+   • 24/7 training availability
+   • No weather-related cancellations
+   • Faster skill acquisition
+   • Standardized training experience
+
+3. CUSTOMER SATISFACTION
+   • Modern, impressive equipment
+   • Faster training completion
+   • Higher pass rates
+   • Competitive advantage
+
+4. STAFF BENEFITS
+   • Reduced instructor burnout
+   • Lower stress from accident risk
+   • Better work environment
+   • Attract and retain better instructors
+
+5. REGULATORY COMPLIANCE
+   • Meet or exceed training standards
+   • Full documentation available
+   • Audit-ready training records
+   • Ready for new regulations
+
+================================================================================
+SPECIAL OFFER FOR EARLY ADOPTERS
+================================================================================
+
+For customers who order within 30 days:
+
+• FREE shipping to [your country]
+• FREE installation and training
+• 3-year warranty (instead of 2 years)
+• FREE software updates for 3 years
+• Priority technical support
+
+Limited to first 10 customers per region.
+
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+END OF ROI CALCULATOR
+================================================================================

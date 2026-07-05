@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "company": "AAA Driving Academy",
+    "country": "USA",
+    "email": "john@aaadriving.com",
+    "phone": "+1-555-0123",
+    "customer_type": "driving_school",
+    "status": "contacted",
+    "notes": "Initial contact via LinkedIn. Interested in YSL2021-86 model.",
+    "created_date": "2026-07-05 14:38",
+    "last_contact": null,
+    "next_followup": null,
+    "deal_size": 15000,
+    "stage_history": [
+      {
+        "stage": "contacted",
+        "date": "2026-07-05"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ahmed Al-Rashid",
+    "company": "RTA Dubai Training",
+    "country": "UAE",
+    "email": "ahmed@rta.gov.ae",
+    "phone": "+971-50-123-4567",
+    "customer_type": "government",
+    "status": "prospect",
+    "notes": "Government project for Vision 2030 training program.",
+    "created_date": "2026-07-05 14:38",
+    "last_contact": null,
+    "next_followup": null,
+    "deal_size": 250000,
+    "stage_history": [
+      {
+        "stage": "prospect",
+        "date": "2026-07-05"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sarah Johnson",
+    "company": "DriveWise Canada",
+    "country": "Canada",
+    "email": "sarah@drivewisecanada.com",
+    "phone": "+1-416-555-0199",
+    "customer_type": "driving_school",
+    "status": "interested",
+    "notes": "Met at driving school expo. Requested quotation for 5 units.",
+    "created_date": "2026-07-05 14:38",
+    "last_contact": null,
+    "next_followup": null,
+    "deal_size": 15000,
+    "stage_history": [
+      {
+        "stage": "interested",
+        "date": "2026-07-05"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Carlos Martinez",
+    "company": "SimRacing España",
+    "country": "Spain",
+    "email": "carlos@simracingspain.com",
+    "phone": "+34-612-345-678",
+    "customer_type": "sim_racing_shop",
+    "status": "quote",
+    "notes": "Want 6-DOF platforms for entertainment venue. Need custom branding.",
+    "created_date": "2026-07-05 14:38",
+    "last_contact": null,
+    "next_followup": null,
+    "deal_size": 25000,
+    "stage_history": [
+      {
+        "stage": "quote",
+        "date": "2026-07-05"
+      }
+    ]
+  }
+]
