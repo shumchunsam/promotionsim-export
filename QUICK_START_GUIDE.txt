@@ -1,0 +1,203 @@
+================================================================================
+QUICK START GUIDE - 30分钟上手指南
+================================================================================
+
+Generated: 2026-07-05
+Company: Foshan Easyly New Technology Co., Ltd.
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+STEP 1: 更新LinkedIn个人资料 (5分钟)
+================================================================================
+
+打开 LinkedIn.com → 编辑个人资料
+
+Headline (标题栏):
+─────────────────────────────────────────
+Samson Shum | Driving Simulator Manufacturer since 2004 |
+Helping driving schools cut training costs by 70%
+─────────────────────────────────────────
+
+About (简介):
+─────────────────────────────────────────
+Foshan Easyly New Technology Co., Ltd. (est. 2004) specializes in
+professional driving simulators and motion platforms.
+
+We help driving schools, CDL training centers, and entertainment
+venues reduce training costs by 70-90% through simulator technology.
+
+Products:
+- Car Driving Simulators (YSL2021-86/88)
+- 6-DOF Motion Racing Platforms
+- Truck and Bus Training Simulators
+- Electric Dual-Control Training Vehicles
+
+20+ years manufacturing expertise. Factory-direct pricing.
+Global shipping.
+
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+─────────────────────────────────────────
+
+================================================================================
+STEP 2: 发送第一封邮件 (5分钟)
+================================================================================
+
+复制以下邮件内容，粘贴到Gmail/Outlook:
+
+收件人: 从outreach_real_customers.csv找目标
+主题: Cut Driving School Fuel Costs by 70% with Factory-Direct Simulators
+
+正文:
+─────────────────────────────────────────
+Dear [Contact Name],
+
+I am Samson from Foshan Easyly New Technology Co., Ltd., a professional
+driving simulator manufacturer based in Foshan, China. We have been in
+the business since 2004.
+
+I noticed [Company Name] has been serving drivers in [Location] for years.
+Many driving schools like yours are now switching to simulators to cut
+fuel costs by 70-90%.
+
+Key Benefits for [Company Name]:
+• Zero fuel consumption during simulator training
+• No accident liability - completely safe learning environment
+• 24/7 availability - train whenever students want
+• Compatible with DMV/state testing standards
+• Factory-direct pricing - we are the manufacturer, no middlemen
+
+We have helped 50+ driving schools worldwide reduce their training costs.
+
+Would you be open to a 15-minute call next week?
+
+Best regards,
+Samson Shum
+Foshan Easyly New Technology Co., Ltd.
+Website: https://www.studycar.com/en/
+Email: 260240751@qq.com
+Phone: +86 13798624342
+─────────────────────────────────────────
+
+把 [Contact Name] 换成真实姓名，[Company Name] 换成公司名称，[Location]
+换成国家/地区名，然后发送。
+
+================================================================================
+STEP 3: 发送LinkedIn连接请求 (5分钟)
+================================================================================
+
+1. 在LinkedIn搜索: "driving school" + 国家名
+2. 找到Director/Owner/Training Manager职位的人
+3. 点击Connect → 添加个性化说明:
+
+─────────────────────────────────────────
+Hi [Name],
+
+I work with Foshan Easyly, a driving simulator manufacturer since 2004.
+We help driving schools reduce fuel costs by 70-90%.
+
+Would love to connect and share some ideas.
+
+Best,
+Samson
+─────────────────────────────────────────
+
+================================================================================
+STEP 4: 设置WhatsApp Business (10分钟)
+================================================================================
+
+1. 下载WhatsApp Business (App Store/Google Play)
+2. 注册号码: +86 13798624342
+3. 设置个人资料:
+   - 名称: Foshan Easyly New Technology
+   - 类别: 汽车零件和服务
+   - 描述: Professional driving simulator manufacturer since 2004
+   - 地址: Foshan, Guangdong, China
+   - 邮箱: 260240751@qq.com
+   - 网站: www.studycar.com/en/
+
+4. 发送第一条WhatsApp消息:
+
+─────────────────────────────────────────
+Hi [Name],
+
+I am Samson from Foshan Easyly. We manufacture driving simulators
+since 2004.
+
+We help driving schools cut fuel costs by 70%+. Our simulators are
+used by 50+ training centers worldwide.
+
+Would you be interested in our product catalog?
+
+WhatsApp: +86 13798624342
+WeChat: same number
+Email: 260240751@qq.com
+
+Thanks!
+Samson
+─────────────────────────────────────────
+
+================================================================================
+STEP 5: 每天例行工作 (30分钟/天)
+================================================================================
+
+早晨 (15分钟):
+─────────────────────────────────────────
+1. 发送5封邮件 (用personalized_emails.txt里的模板)
+2. 发5个LinkedIn连接请求
+3. 发2条WhatsApp消息给亚洲/中东客户
+─────────────────────────────────────────
+
+下午 (15分钟):
+─────────────────────────────────────────
+1. 检查邮件回复并回复
+2. 回复官网询盘
+3. 关注跟进未回复的客户
+─────────────────────────────────────────
+
+================================================================================
+文件位置
+================================================================================
+
+所有文件在 /home/samson/overseas_expansion/ 目录:
+
+┌─────────────────────────────────────────────────────────────┐
+│ 📁 立即行动指南.txt          ← 完整的3步操作说明           │
+│ 📁 outreach_real_customers.csv  ← 17个目标客户            │
+│ 📁 personalized_emails.txt      ← 17封开发信             │
+│ 📁 product_catalog_en.txt       ← 产品目录                │
+│ 📁 FAQ_and_Response_Templates.txt ← 10个FAQ+回复模板      │
+│ 📁 multilingual_email_templates.txt ← 5国语言模板         │
+│ 📁 competitor_analysis.txt      ← 竞争分析                │
+│ 📁 weekly_sales_plan.txt        ← 每周销售计划            │
+│ 📁 roi_calculator.txt           ← 投资回报计算器          │
+│ 📁 linkedin_search_guide.txt    ← LinkedIn搜索指南        │
+│ 📁 whatsapp_outreach_guide.txt  ← WhatsApp策略            │
+│ 📁 DELIVERY_SUMMARY.txt         ← 完整交付清单            │
+└─────────────────────────────────────────────────────────────┘
+
+网站: https://shumchunsam.github.io/promotionsim-export/
+
+================================================================================
+常见问题
+================================================================================
+
+Q: 每天要花多少时间?
+A: 1-2小时。发送10封邮件+5个LinkedIn请求+3个WhatsApp大约30分钟。
+
+Q: 多久会有回复?
+A: 通常第一周会有2-3个回复。持续发送，第二周开始会有询盘。
+
+Q: 如何追踪进度?
+A: 用sales_pipeline.py管理销售漏斗。
+
+Q: 客户问价格怎么办?
+A: 用FAQ_and_Response_Templates.txt里的回复模板，或发product_catalog_en.txt。
+
+Q: 客户说太贵了怎么办?
+A: 用roi_calculator.txt算ROI，展示6-12个月回本。
+
+================================================================================
+END OF QUICK START GUIDE
+================================================================================
