@@ -1,0 +1,234 @@
+================================================================================
+开发信 - 第1批：直接能发的5封邮件
+================================================================================
+
+发送顺序：先发最容易回复的客户（东南亚 > 中东 > 北美 > 欧洲）
+
+================================================================================
+邮件 #1 - 马来西亚驾校（最快回复，WhatsApp常用）
+================================================================================
+
+收件人: 从outreach_real_customers.csv找 "Malaysia Driving School" 的邮箱
+或: 直接WhatsApp +60开头
+
+主题: Reduce your driving school fuel costs by 70% with simulators
+
+Hi [Name],
+
+I'm Samson from Foshan Easyly, a driving simulator manufacturer in
+Guangdong, China since 2004.
+
+I noticed your driving school in Malaysia. We already supply simulators
+to driving schools in Singapore and Indonesia, and many Malaysian schools
+are switching because:
+
+• 70-90% fuel cost reduction
+• Zero accident liability during training
+• 24/7 training availability
+
+We have 3 units ready for delivery with CIF Port Klang shipping.
+Would you like pricing?
+
+Best regards,
+Samson
+WhatsApp: +86 13798624342
+www.studycar.com/en/
+
+================================================================================
+邮件 #2 - 新加坡驾校
+================================================================================
+
+收件人: 从outreach_real_customers.csv找 "Singapore" 的邮箱
+
+主题: Professional driving simulators - Factory direct from China
+
+Hi [Name],
+
+I'm Samson from Foshan Easyly. We manufacture professional driving
+simulators in Foshan, China since 2004.
+
+Our simulators are used by 50+ training centers in Singapore, Malaysia,
+and Indonesia. Key benefits for your driving school:
+
+• YSL2021-86 model - full dashboard, force feedback steering, dual 27" screens
+• Compatible with Singapore's traffic police driving test system
+• Factory-direct pricing - no middlemen markup
+• CIF shipping to Singapore available
+
+I can send you our product catalog and pricing if interested.
+
+Best regards,
+Samson
+WhatsApp: +86 13798624342
+www.studycar.com/en/
+
+================================================================================
+邮件 #3 - 阿联酋RTA驾校（迪拜）
+================================================================================
+
+收件人: 从outreach_real_customers.csv找 "UAE" 的邮箱
+
+主题: Driving simulator solutions for RTA training programs
+
+Hi [Name],
+
+I'm Samson from Foshan Easyly. We've been manufacturing driving simulators
+since 2004 and currently supply training centers across the Middle East.
+
+I understand RTA is expanding training programs. Our simulators help:
+
+• Reduce fuel costs by 70-90%
+• Train drivers year-round without weather disruptions
+• Meet government training standards with documented sessions
+• Zero accident liability during training
+
+We're offering factory-direct pricing for UAE orders and can arrange
+on-site installation and training.
+
+Would you like to see our simulators via video call?
+
+Best regards,
+Samson
+WhatsApp/WeChat: +86 13798624342
+www.studycar.com/en/
+
+================================================================================
+邮件 #4 - 美国AAA驾校
+================================================================================
+
+收件人: 从outreach_real_customers.csv找 "AAA" 的邮箱
+
+主题: Cut training costs by 70% - Professional driving simulators from factory
+
+Hi [Name],
+
+I'm Samson from Foshan Easyly. We're a professional driving simulator
+manufacturer since 2004, and we help driving schools reduce training
+costs by 70-90% through simulator technology.
+
+Here's why driving schools choose us over Western brands:
+
+• Same quality at 40-60% lower cost
+• 20+ years manufacturing experience
+• High-Tech Enterprise certified
+• 24/7 remote technical support
+• 2-year warranty + spare parts available
+• Compatible with state testing standards
+
+Our YSL2021-86 simulator features:
+- 86cm full cockpit
+- Force feedback steering wheel
+- Dual 27" monitors
+- Full dashboard with instrument cluster
+- Compatible with major training software
+
+Sample pricing: $10,500/unit (FOB)
+Shipping to US: ~15-25 days via sea freight
+
+Would you be open to a quick call next week?
+
+Best regards,
+Samson Shum
+Foshan Easyly New Technology Co., Ltd.
+Email: 260240751@qq.com
+WhatsApp: +86 13798624342
+www.studycar.com/en/
+
+================================================================================
+邮件 #5 - 泰国驾校
+================================================================================
+
+收件人: 从outreach_real_customers.csv找 "Thailand" 的邮箱
+
+主题: Driving simulator for your training school - direct factory pricing
+
+Hi [Name],
+
+I'm Samson from Foshan Easyly, a driving simulator manufacturer in
+Foshan, China. We've been in this business since 2004 and currently
+supply 50+ training centers across Southeast Asia.
+
+Many Thai driving schools are now using simulators because:
+
+• Save 70%+ on fuel costs
+• Train students 24/7 regardless of weather
+• Zero accident liability during training
+• Faster training completion
+
+We offer competitive pricing and can ship to Bangkok via sea freight.
+
+Interested in pricing? Reply and I'll send our catalog.
+
+Best regards,
+Samson
+WhatsApp/Line ID: +86 13798624342
+www.studycar.com/en/
+
+================================================================================
+发送计划 - 第1周
+================================================================================
+
+Day 1 (今天):
+- 发送 #1 马来西亚 (WhatsApp优先)
+- 发送 #2 新加坡 (WhatsApp优先)
+- 发送 #5 泰国
+
+Day 2 (明天):
+- 发送 #3 阿联酋迪拜
+- 发送 #4 美国AAA
+
+跟进时间:
+- 第3天: 如果没回复，发简短跟进
+- 第7天: 发ROI计算结果
+- 第14天: 最后跟进
+
+================================================================================
+WhatsApp消息模板 - 东南亚客户
+================================================================================
+
+消息 #1:
+--------
+Hi [Name], I'm Samson from Foshan Easyly. We manufacture driving
+simulators for driving schools since 2004.
+
+We help schools cut fuel costs by 70%+. Many schools in Singapore
+and Malaysia are already using our simulators.
+
+Would you like to see our product catalog?
+
+Thanks,
+Samson
+
+消息 #2 (跟进):
+--------------
+Hi [Name], just checking if you received my previous message.
+We have units ready for delivery. Interested in pricing?
+
+Thanks,
+Samson
+
+消息 #3 (发目录后):
+-----------------
+Hi [Name], here's our product catalog. [attach PDF]
+
+We offer:
+1. YSL2021-86 driving simulator - $10,500/unit
+2. YSL2021-68 driving simulator - $8,000/unit
+3. 6-DOF racing platform - $22,000/unit
+4. Truck/bus simulator - $25,000/unit
+
+Shipping to [country]: CIF available
+
+For pricing, let me know:
+1. Which product?
+2. How many units?
+3. Delivery location?
+
+I'll send quotation within 24 hours.
+
+Thanks,
+Samson
+
+================================================================================
+END OF EMAILS
+================================================================================
