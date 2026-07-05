@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-07-05T16:01:45.689274",
+  "type": "engineering_simulator_outreach",
+  "results": [
+    {
+      "company": "Maxizm Construction Machinery (Qingdao) Co., Ltd.",
+      "email": "vxie@maxizm.com",
+      "product": "Excavator Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Oriemac Machinery & Equipment (Shanghai) Co., Ltd.",
+      "email": "sales@oriemac.com",
+      "product": "Excavator Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Wenzhou Qiaoli Teaching Instrument Co., LTD.",
+      "email": "info@qiaoli.com",
+      "product": "Excavator Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Jining Micro Packed Amusement Equipment Co., Ltd.",
+      "email": "sales@micro-packed.com",
+      "product": "Excavator Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Hebei Zhongbang Mechanical Equipment Sales Co., Ltd.",
+      "email": "sales@hbzhongbang.com",
+      "product": "Forklift Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Shanghai Vostosun Industrial Co., Ltd.",
+      "email": "sales@vostosun.com",
+      "product": "Forklift Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Shandong Xingke Intelligent Technology Co., Ltd.",
+      "email": "info@sd-xingke.com",
+      "product": "VR Forklift Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Xuzhou Longshine Intelligent Technology Co., Ltd.",
+      "email": "sales@longshine.com",
+      "product": "VR Forklift Simulator",
+      "status": "sent"
+    },
+    {
+      "company": "Guangzhou Naughty Dog Electronic Technology Co., Ltd.",
+      "email": "info@naughtydog.com",
+      "product": "Crane Simulator",
+      "status": "sent"
+    }
+  ],
+  "summary": {
+    "total": 9,
+    "success": 9,
+    "failed": 0
+  }
+}
