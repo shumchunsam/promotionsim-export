@@ -1,0 +1,160 @@
+================================================================================
+QUOTATION TEMPLATE - 报价单模板
+================================================================================
+
+Foshan Easyly New Technology Co., Ltd.
+Foshan, Guangdong, China
+Email: 260240751@qq.com | Phone: +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+QUOTATION: QUOTE-2026-001
+Date: [Current Date]
+Valid Until: [Date + 30 days]
+
+TO:
+[Customer Name]
+[Company Name]
+[Address]
+[Email]
+
+================================================================================
+PRODUCT QUOTATION
+================================================================================
+
+ITEM 1: Car Driving Simulator YSL2021-86
+-----------------------------------------
+Quantity: [___] unit(s)
+Unit Price: $10,500 USD
+Subtotal: $[___] USD
+
+Includes:
+- Full simulator cockpit (86cm width)
+- Professional steering wheel with force feedback
+- Pedal system (gas, brake, clutch)
+- Gear shifter (manual/automatic)
+- 27-inch monitor (2 screens)
+- Dashboard instrument cluster
+- Seat and harness
+- Control unit and cables
+- Installation manual
+- 2-year warranty
+
+ITEM 2: 6-DOF Motion Platform
+------------------------------
+Quantity: [___] unit(s)
+Unit Price: $22,000 USD
+Subtotal: $[___] USD
+
+Includes:
+- 6-DOF motion system
+- Racing cockpit frame
+- Bucket seat with harness
+- Mounting kit for steering/gear
+- Control box
+- Cable set
+- Installation manual
+- 2-year warranty
+
+ITEM 3: Heavy Vehicle Simulator (Truck/Bus)
+--------------------------------------------
+Quantity: [___] unit(s)
+Unit Price: $25,000 USD
+Subtotal: $[___] USD
+
+Includes:
+- Full truck/bus simulator cockpit
+- Heavy vehicle control panel
+- Multiple mirror system
+- Air conditioning (optional)
+- 32-inch monitor (3 screens)
+- Professional seating
+- Full installation support
+- 2-year warranty
+
+================================================================================
+OPTIONAL SERVICES
+================================================================================
+
+1. Shipping and Insurance:
+   - FOB Foshan: $0 (customer arranges)
+   - CIF [Destination]: $[___]
+   - DDP [Destination]: $[___]
+
+2. Installation and Training:
+   - Remote installation guide: FREE
+   - On-site installation (工程师派遣): $5,000/day
+   - Staff training (remote): FREE
+   - Staff training (on-site): $3,000/day
+
+3. Extended Warranty:
+   - Standard: 2 years (included)
+   - Extended to 3 years: +$1,000/unit
+   - Extended to 5 years: +$2,500/unit
+
+================================================================================
+PAYMENT TERMS
+================================================================================
+
+Payment Method: T/T (Telegraphic Transfer)
+- 30% deposit upon order confirmation
+- 70% before shipment
+
+Alternative: L/C at sight (for orders over $10,000)
+
+================================================================================
+DELIVERY TERMS
+================================================================================
+
+Lead Time: 15-20 days (standard models)
+Shipping: FOB Foshan or CIF [Destination]
+Packaging: Standard export carton with foam protection
+
+================================================================================
+TOTAL QUOTATION
+================================================================================
+
+Product Subtotal: $[___]
+Shipping: $[___] (if applicable)
+Installation: $[___] (if applicable)
+Extended Warranty: $[___] (if applicable)
+
+GRAND TOTAL: $[___] USD
+
+================================================================================
+TERMS AND CONDITIONS
+================================================================================
+
+1. This quotation is valid for 30 days from the date above.
+2. Prices are in USD and subject to change after validity period.
+3. Delivery time starts from receipt of deposit.
+4. Warranty covers manufacturing defects only.
+5. Customer responsible for customs clearance and import duties.
+6. All products undergo 200+ quality checks before shipment.
+
+================================================================================
+ACCEPTANCE
+================================================================================
+
+I accept the terms and conditions of this quotation.
+
+Customer Signature: ________________  Date: ________________
+
+Company Stamp: _____________________
+
+================================================================================
+SIGNATURE BLOCK
+================================================================================
+
+Prepared by:
+Samson Shum
+Foshan Easyly New Technology Co., Ltd.
+Email: 260240751@qq.com
+Phone: +86 13798624342
+Website: https://www.studycar.com/en/
+
+Date: [Current Date]
+
+================================================================================
+END OF QUOTATION TEMPLATE
+================================================================================
