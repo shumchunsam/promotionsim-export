@@ -108,16 +108,25 @@
 <section id="contact" class="section contact">
     <div class="container">
         <h2 class="section-title">Start Your Project</h2>
-        <form>
-            <select id="customer-type">
-                <option value="b2b">B2B / Institutional Buyer</option>
-                <option value="government">Government / Defense</option>
-                <option value="b2b2c">B2B2C / Simulator Shop</option>
-                <option value="consumer">Consumer / Enthusiast</option>
+        <form action="https://formsubmit.co/260240751@qq.com" method="POST">
+            <!-- Formspree redirect after submit -->
+            <input type="hidden" name="_next" value="https://shumchunsam.github.io/promotionsim-export/thankyou.html">
+            <!-- Disable Captcha -->
+            <input type="hidden" name="_captcha" value="false">
+            <!-- Subject line -->
+            <input type="hidden" name="_subject" value="New Simulator Inquiry from Website">
+            <!-- Template -->
+            <input type="hidden" name="_template" value="table">
+            
+            <select name="customer_type" id="customer-type" required>
+                <option value="B2B / Institutional Buyer">B2B / Institutional Buyer</option>
+                <option value="Government / Defense">Government / Defense</option>
+                <option value="B2B2C / Simulator Shop">B2B2C / Simulator Shop</option>
+                <option value="Consumer / Enthusiast">Consumer / Enthusiast</option>
             </select>
-            <input type="email" placeholder="Your Business Email" required>
-            <input type="text" placeholder="Company / Organization Name">
-            <textarea rows="5" placeholder="Describe your requirements: motion axis, screen/setup preference, target software, budget range..."></textarea>
+            <input type="email" name="email" placeholder="Your Business Email" required>
+            <input type="text" name="company" placeholder="Company / Organization Name">
+            <textarea name="requirements" rows="5" placeholder="Describe your requirements: motion axis, screen/setup preference, target software, budget range..."></textarea>
             <button type="submit" class="btn btn-primary" style="width:100%">Submit Inquiry</button>
         </form>
     </div>
