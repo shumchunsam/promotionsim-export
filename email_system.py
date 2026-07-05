@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-ProMotion Simulators - Email Outreach System
-自动生成并管理B2B/B2C开发信，支持多语言和个性化定制
+Foshan Easyly New Technology Co., Ltd. - Email Outreach System
+Automated B2B/B2C cold email system for driving simulator export
 """
 
 import json
@@ -10,284 +10,333 @@ import random
 from datetime import datetime
 from typing import Dict, List, Optional
 
-# 产品配置
+# Company configuration
+COMPANY = {
+    "name": "Foshan Easyly New Technology Co., Ltd.",
+    "name_short": "Easyly",
+    "founded": 2004,
+    "location": "Foshan, Guangdong, China",
+    "website": "https://www.studycar.com",
+    "website_en": "https://www.studycar.com/en/",
+    "email": "260240751@qq.com",
+    "phone": "+86 13798624342",
+    "address": "Foshan, Guangdong, China",
+    "icp": "粤ICP备09098372号",
+    "type": "High-Tech Enterprise"
+}
+
 PRODUCTS = {
-    "automotive": {
-        "name": "Automotive Driving Simulator",
+    "driving_simulator": {
+        "name": "Car Driving Simulator",
         "name_short": "Driving Simulator",
-        "description": "Professional automotive driving simulation platform for training, R&D, and entertainment",
-        "features": ["3-6DOF motion platform", "Custom cockpit design", "Multi-screen display", "Force feedback steering", "Pedal integration", "VR/AR compatible"],
-        "use_cases": ["Driving schools", "Driver training centers", "Automotive R&D", "Sim racing", "Therapeutic training"]
+        "model_range": "YSL2021-86 / YSL2021-88 (68cm/86cm)",
+        "description": "Professional car driving simulator for training and education",
+        "features": [
+            "Realistic steering wheel and pedal system",
+            "Full gear shifter integration",
+            "Multi-monitor display support",
+            "Compatible with all major training software",
+            "Available in 68cm and 86cm widths",
+            "Easy to install and maintain"
+        ],
+        "use_cases": [
+            "Driving schools and training centers",
+            "Driver education programs",
+            "Vehicle safety training",
+            "New driver preparation courses"
+        ]
     },
-    "flight": {
-        "name": "Flight & Aviation Simulator",
-        "name_short": "Flight Simulator",
-        "description": "High-fidelity flight simulation platform for pilot training and aviation education",
-        "features": ["6DOF motion platform", "Full-motion flight dynamics", "Multi-engine simulation", "Weather simulation", "ATC integration", "FAA/EASA compliant"],
-        "use_cases": ["Flight schools", "Aviation universities", "Military training", "Corporate aviation", "Emergency procedure training"]
+    "racing_simulator": {
+        "name": "6-DOF Racing Simulator Platform",
+        "name_short": "Racing Simulator",
+        "model_range": "6-DOF Motion Platform Series",
+        "description": "Professional motion racing simulator with full immersion experience",
+        "features": [
+            "6-DOF dynamic motion feedback",
+            "Full cockpit integration",
+            "Real-time motion rendering",
+            "Compatible with PC/console racing games",
+            "Professional-grade build quality",
+            "Customizable cockpit design"
+        ],
+        "use_cases": [
+            "Sim racing enthusiasts",
+            "Entertainment venues and arcades",
+            "Racing experience centers",
+            "Professional racing training"
+        ]
     },
     "heavy_vehicle": {
-        "name": "Bus & Truck Training Simulator",
+        "name": "Truck & Bus Simulator",
         "name_short": "Heavy Vehicle Simulator",
-        "description": "Commercial vehicle simulation platform for professional driver training",
-        "features": ["Heavy vehicle dynamics", "CDL preparation", "Multi-vehicle types", "Hazard perception training", "Fuel efficiency training", "DOT compliance"],
-        "use_cases": ["Trucking companies", "CDL training centers", "Public transit", "Logistics companies", "Fleet training"]
+        "model_range": "Commercial Vehicle Series",
+        "description": "Heavy-duty simulator for commercial driver training",
+        "features": [
+            "Full brake/clutch/gear integration",
+            "Heavy vehicle dynamics simulation",
+            "Multiple cabin configurations",
+            "CDL preparation support",
+            "Multi-vehicle type support",
+            "Commercial training software compatible"
+        ],
+        "use_cases": [
+            "CDL training centers",
+            "Trucking companies",
+            "Public transit training",
+            "Logistics and fleet training"
+        ]
     },
-    "motion_platform": {
-        "name": "Custom Motion Platform",
-        "name_short": "Motion Platform",
-        "description": "Industrial-grade multi-axis motion platform for various simulation applications",
-        "features": ["3/4/6 degrees of freedom", "Custom payload capacity", "High precision actuators", "Real-time control", "Modular design", "Scalable architecture"],
-        "use_cases": ["Theme parks", "VR arcades", "Research institutions", "Military simulation", "Medical training", "Amusement"]
+    "electric_vehicle": {
+        "name": "Electric Training Vehicle",
+        "name_short": "Electric Training Vehicle",
+        "model_range": "Dual-Control EV Series",
+        "description": "Electric training vehicles with dual-control safety system",
+        "features": [
+            "Dual-control instructor system",
+            "New energy vehicle platform",
+            "Compliant with driving test standards",
+            "Instructor safety control",
+            "Low maintenance cost",
+            "Environmentally friendly"
+        ],
+        "use_cases": [
+            "New energy vehicle training",
+            "EV driver education",
+            "Driving schools",
+            "Fleet training programs"
+        ]
     }
 }
 
-# 客户类型配置
 CUSTOMER_TYPES = {
     "b2b_driving_school": {
         "name": "Driving School",
         "email_subjects": [
-            "Transform Your Driving School with Professional Simulators",
-            "Reduce Training Costs by 80% with Driving Simulators",
-            "The Future of Driving Education is Here"
+            "Reduce Driving School Training Costs by 70% with Simulators",
+            "Foshan Easyly - Professional Driving Simulator Manufacturer Since 2004",
+            "Transform Your Driving School with Factory-Direct Simulators"
         ],
         "pain_points": [
-            "High operational costs (fuel, insurance, maintenance)",
-            "Safety concerns and liability",
-            "Limited training capacity",
-            "High pass-failure rates",
-            "Rising regulatory costs"
+            "High fuel and maintenance costs for training vehicles",
+            "Limited training capacity and schedule conflicts",
+            "Safety liability and accident risks",
+            "Low student pass rates on road tests",
+            "Rising instructor wages and vehicle costs"
         ],
         "selling_points": [
-            "70-90% reduction in training costs",
-            "Zero safety liability during training",
-            "Unlimited training capacity",
-            "Modern marketing advantage",
-            "Faster driver certification"
+            "70-90% reduction in training costs vs real vehicles",
+            "Zero safety liability during simulator training",
+            "Unlimited training capacity - 24/7 availability",
+            "20+ years manufacturer experience since 2004",
+            "Factory-direct pricing with global shipping",
+            "Compatible with national driving test standards"
         ],
-        "call_to_action": "Schedule a free demo at your facility"
-    },
-    "b2b_flight_school": {
-        "name": "Flight Training School",
-        "email_subjects": [
-            "Modernize Your Flight Training Program",
-            "Reduce Aircraft Costs by 60% with Simulators",
-            "FAA-EASA Compliant Flight Simulation Solutions"
-        ],
-        "pain_points": [
-            "Aircraft operating costs",
-            "Weather-related training disruptions",
-            "Limited simulator availability",
-            "Pilot shortage crisis",
-            "Regulatory compliance costs"
-        ],
-        "selling_points": [
-            "All-weather training capability",
-            "FAA/EASA approved options",
-            "Emergency procedure training",
-            "Reduced aircraft wear",
-            "Higher training throughput"
-        ],
-        "call_to_action": "Request a flight simulator quote"
+        "call_to_action": "Request a free demo and quote for your driving school"
     },
     "b2b_cdl": {
         "name": "CDL Training Center",
         "email_subjects": [
-            "Boost CDL Pass Rates with Professional Simulators",
-            "Reduce CDL Training Costs by 70%",
-            "Modern CDL Training Solutions for Your School"
+            "Cut CDL Training Costs by 70% with Professional Simulators",
+            "Factory-Direct Truck Simulator for CDL Training",
+            "Improve CDL Pass Rates with Easyly Simulators"
         ],
         "pain_points": [
             "Commercial vehicle insurance costs",
-            "Federal/state compliance requirements",
-            "Safety liability",
-            "High maintenance costs",
-            "CDL exam pass rates"
+            "Federal/state compliance and documentation",
+            "High fuel consumption and vehicle wear",
+            "Limited practice time for students",
+            "Safety concerns during training"
         ],
         "selling_points": [
-            "Reduced insurance premiums",
-            "Zero accident risk",
-            "FMCSA compliance support",
-            "Unlimited practice time",
-            "Improved CDL pass rates"
+            "70%+ reduction in training costs",
+            "Zero accident risk during simulator training",
+            "Full CDL test preparation compatibility",
+            "Factory-direct from established 2004 manufacturer",
+            "Global shipping and installation support",
+            "Proven track record with driving training programs"
         ],
         "call_to_action": "Get your CDL simulator quote today"
     },
     "b2b2c_simulator_shop": {
-        "name": "Simulator Shop/VR Arcade",
+        "name": "Simulator Shop / VR Arcade",
         "email_subjects": [
-            "Premium Simulators for Your Business",
-            "Factory-Direct Motion Platforms for VR Arcades",
-            "Upgrade Your Simulator Experience"
+            "Premium 6-DOF Racing Simulators for Your Business",
+            "Factory-Direct Motion Platforms from China's Top Manufacturer",
+            "Boost Your Revenue with Professional Sim Racing Rigs"
         ],
         "pain_points": [
-            "Competition pressure",
+            "Competition pressure in entertainment industry",
+            "Need for premium, eye-catching equipment",
+            "High equipment costs from Western suppliers",
             "Customer experience expectations",
-            "Equipment upgrade costs",
-            "Revenue optimization",
-            "Technology differentiation"
+            "Equipment reliability and maintenance"
         ],
         "selling_points": [
-            "Factory-direct pricing",
-            "Latest 3-6DOF technology",
-            "Customization options",
+            "Factory-direct pricing - up to 60% cheaper than Western brands",
+            "Latest 6-DOF motion technology",
+            "Custom branding and cockpit design",
+            "20+ years manufacturing expertise",
             "Global shipping and installation",
-            "After-sales support"
+            "After-sales support and spare parts"
         ],
-        "call_to_action": "Explore our simulator solutions"
-    },
-    "government": {
-        "name": "Government/Defense",
-        "email_subjects": [
-            "Professional Simulation Solutions for Government",
-            "Military-Grade Simulation Platforms",
-            "Government Training Simulation Systems"
-        ],
-        "pain_points": [
-            "Budget constraints",
-            "Security requirements",
-            "Training effectiveness",
-            "Regulatory compliance",
-            "Long-term maintenance"
-        ],
-        "selling_points": [
-            "Military-grade quality",
-            "Custom security configurations",
-            "Proven government contracts",
-            "Long-term support",
-            "Competitive government pricing"
-        ],
-        "call_to_action": "Request government procurement information"
+        "call_to_action": "Explore our simulator solutions for your business"
     },
     "consumer": {
-        "name": "Consumer/Enthusiast",
+        "name": "Consumer / Sim Racing Enthusiast",
         "email_subjects": [
-            "Professional Sim Racing Platforms",
-            "The Ultimate Home Simulator Experience",
-            "Factory-Direct Sim Racing Rigs"
+            "Professional 6-DOF Racing Simulator - Direct from Manufacturer",
+            "Factory-Direct Sim Racing Rigs - No Middlemen Markup",
+            "The Ultimate Home Simulator Experience"
         ],
         "pain_points": [
-            "Expensive pre-built rigs",
-            "Limited customization",
-            "Poor build quality",
-            "Lack of support",
-            "Upgrade difficulties"
+            "Expensive pre-built sim rigs from Western brands",
+            "Limited customization options",
+            "Poor build quality in budget alternatives",
+            "Lack of after-sales support",
+            "Difficulty upgrading individual components"
         ],
         "selling_points": [
-            "Factory-direct pricing",
-            "Full customization options",
-            "Premium build quality",
-            "Direct manufacturer support",
-            "Easy upgrades"
+            "Factory-direct pricing - no middlemen",
+            "Full customization - cockpit, steering, motion axes",
+            "Professional-grade build quality (20+ years)",
+            "Direct manufacturer support and warranty",
+            "Easy upgrades and modular design",
+            "Ships worldwide with installation guide"
         ],
-        "call_to_action": "Configure your custom simulator"
+        "call_to_action": "Configure your custom simulator today"
+    },
+    "government": {
+        "name": "Government / Defense",
+        "email_subjects": [
+            "Professional Simulation Solutions for Government Training",
+            "Military-Grade Driving Simulator - Certified Chinese Manufacturer",
+            "Government Procurement: Driving Simulator Training Systems"
+        ],
+        "pain_points": [
+            "Defense training budget constraints",
+            "Security and compliance requirements",
+            "Training effectiveness and outcomes",
+            "Long-term maintenance and support",
+            "Regulatory and safety standards"
+        ],
+        "selling_points": [
+            "High-Tech Enterprise certified (since 2004)",
+            "Competitive government procurement pricing",
+            "Full compliance documentation support",
+            "Long-term maintenance and spare parts supply",
+            "Proven track record with Chinese government projects",
+            "Custom security configurations available"
+        ],
+        "call_to_action": "Request government procurement information"
     }
 }
 
-# 多语言模板
 LANGUAGES = {
     "en": {
         "greeting": "Dear {name},",
-        "intro": "I'm reaching out from ProMotion Simulators regarding {company}'s {type} operations in {country}.",
-        "value_proposition": "We specialize in professional {product} systems that directly address the challenges you face:",
+        "intro": "I'm reaching out from Foshan Easyly New Technology Co., Ltd., a professional driving simulator manufacturer since 2004.",
+        "value_proposition": "We specialize in professional {product} systems that address your key challenges:",
         "benefits": "Key Benefits for {company}:",
-        "why_us": "Why Partner With Us:",
+        "why_us": "Why Partner With Easyly:",
         "challenges": "Your Current Challenges:",
-        "call_to_action": "I'd love to schedule a 15-minute call to discuss how we can support your {type} training center.",
+        "call_to_action": "I'd love to schedule a call to discuss how we can support your training program.",
         "closing": "Best regards,",
         "signature": """Samson Shum
-ProMotion Simulators
-https://shumchunsam.github.io/promotionsim-export/"""
+Foshan Easyly New Technology Co., Ltd.
+https://www.studycar.com/en/"""
     },
     "es": {
         "greeting": "Estimado/a {name},",
-        "intro": "Le contactamos de ProMotion Simulators en relación con las operaciones de {type} en {country}.",
-        "value_proposition": "Nos especializamos en sistemas profesionales de {product} que abordan directamente los desafíos que enfrenta:",
+        "intro": "Le contactamos de Foshan Easyly New Technology Co., Ltd., fabricante profesional de simuladores de conducción desde 2004.",
+        "value_proposition": "Nos especializamos en sistemas profesionales de {product} que abordan sus principales desafíos:",
         "benefits": "Beneficios Clave para {company}:",
-        "why_us": "¿Por Qué Trabajarnos?",
+        "why_us": "¿Por Qué Elegirnos?",
         "challenges": "Sus Desafíos Actuales:",
-        "call_to_action": "Me encantaría programar una llamada de 15 minutos para discutir cómo podemos apoyar su centro de formación.",
+        "call_to_action": "Me encantaría programar una llamada para discutir cómo podemos apoyar su programa de formación.",
         "closing": "Saludos cordiales,",
         "signature": """Samson Shum
-ProMotion Simulators
-https://shumchunsam.github.io/promotionsim-export/"""
+Foshan Easyly New Technology Co., Ltd.
+https://www.studycar.com/en/"""
     },
     "fr": {
         "greeting": "Cher/Chère {name},",
-        "intro": "Je vous contacte de ProMotion Simulators concernant les opérations de {type} en {country}.",
-        "value_proposition": "Nous sommes spécialisés dans les systèmes professionnels de {product} qui répondent directement aux défis que vous affrontez:",
+        "intro": "Je vous contacte de Foshan Easyly New Technology Co., Ltd., fabricant professionnel de simulateurs de conduite depuis 2004.",
+        "value_proposition": "Nous sommes spécialisés dans les systèmes professionnels de {product} qui répondent à vos défis principaux:",
         "benefits": "Avantages Clés pour {company}:",
         "why_us": "Pourquoi Nous Choisir?",
         "challenges": "Vos Défis Actuels:",
-        "call_to_action": "J'aimerais organiser un appel de 15 minutes pour discuter de la manière dont nous pouvons soutenir votre centre de formation.",
+        "call_to_action": "J'aimerais organiser un appel pour discuter de la manière dont nous pouvons soutenir votre programme de formation.",
         "closing": "Cordialement,",
         "signature": """Samson Shum
-ProMotion Simulators
-https://shumchunsam.github.io/promotionsim-export/"""
+Foshan Easyly New Technology Co., Ltd.
+https://www.studycar.com/en/"""
     },
     "ar": {
         "greeting": "السيد/ة {name} المحترم/ة،",
-        "intro": "أتواصل معكم من ProMotion Simulators فيما يتعلق بعمليات {type} في {country}.",
-        "value_proposition": "نحن متخصصون في أنظمة {product} الاحترافية التي تعالج مباشرة التحديات التي تواجهها:",
+        "intro": "أتواصل معكم من Foshan Easyly New Technology Co., Ltd، الشركة المصنعة للمحاكيات المهنية للقيادة منذ عام 2004.",
+        "value_proposition": "نحن متخصصون في أنظمة {product} الاحترافية التي تعالج تحدياتكم الرئيسية:",
         "benefits": "الفوائد الرئيسية لـ {company}:",
         "why_us": "لماذا تختارنا؟",
         "challenges": "تحدياتكم الحالية:",
-        "call_to_action": "أرغب في جدولة مكالمة لمدة 15 دقيقة لمناقشة كيفية دعم مركز التدريب الخاص بكم.",
+        "call_to_action": "أرغب في جدولة مكالمة لمناقشة كيفية دعم برنامج التدريب الخاص بكم.",
         "closing": "مع أطيب التحيات،",
         "signature": """Samson Shum
-ProMotion Simulators
-https://shumchunsam.github.io/promotionsim-export/"""
+Foshan Easyly New Technology Co., Ltd.
+https://www.studycar.com/en/"""
     }
 }
 
 def generate_email_template(customer_type: str, product: str, language: str = "en", follow_up: bool = False) -> Dict:
     """Generate email template for specific customer type and product"""
     customer_config = CUSTOMER_TYPES[customer_type]
-    product_config = PRODUCTS[product]
+    product_config = PRODUCTS.get(product, PRODUCTS["driving_simulator"])
     lang_config = LANGUAGES[language]
     
     if follow_up:
         subject = f"Re: {customer_config['email_subjects'][0][:60]}..."
         body = f"""{lang_config['greeting'].format(name='[Contact Name]')}
 
-Following up on my previous email about {product_config['name']} solutions for your {customer_type.replace('_', ' ')} operations.
+Following up on my previous email about {product_config['name']} solutions from Foshan Easyly New Technology Co., Ltd. (est. 2004).
 
-I wanted to share a recent success story from a {random.choice(['USA', 'Germany', 'UAE', 'Singapore', 'Australia'])} client who saw {random.choice(['40%', '60%', '70%', '80%'])} improvement in training efficiency after switching to our platform.
+We've helped {random.choice(['50+', '100+', '200+'])} training centers worldwide reduce costs by 70-90%.
 
 {lang_config['call_to_action'].format(type=customer_type.replace('_', ' '))}
 
 {lang_config['closing']}
 {lang_config['signature']}"""
     else:
-        # Generate dynamic subject
         subject = random.choice(customer_config['email_subjects'])
         
-        # Generate body with personalized content
-        benefits = "\n".join(f"✓ {point}" for point in customer_config['selling_points'][:4])
-        challenges = "\n".join(f"• {point}" for point in customer_config['pain_points'][:4])
+        benefits_text = "\n".join(f"  {point}" for point in customer_config['selling_points'][:5])
+        challenges_text = "\n".join(f"  - {point}" for point in customer_config['pain_points'][:4])
+        features_text = "\n".join(f"  • {feature}" for feature in product_config['features'][:4])
         
         body = f"""{lang_config['greeting'].format(name='[Contact Name]')}
 
-{lang_config['intro'].format(company='[Company Name]', type=customer_type.replace('_', ' '), country='[Country]')}
+{lang_config['intro']}
 
 {lang_config['value_proposition'].format(product=product_config['name_short'])}
 
+{lang_config['challenges'].format(company='[Company Name]')}:
+{challenges_text}
+
 {lang_config['benefits'].format(company='[Company Name]')}:
-{benefits}
+{benefits_text}
 
 {lang_config['why_us']}:
-✓ Factory-direct pricing (no middlemen)
-✓ Global shipping and installation support
-✓ 24/7 remote technical support
-✓ Customizable to your specific requirements
-✓ Proven track record in {random.choice(['North America', 'Europe', 'Southeast Asia', 'Middle East', 'Oceania'])}
+  • Established manufacturer since 2004 (20+ years experience)
+  • High-Tech Enterprise certified
+  • Factory-direct pricing (no middlemen markup)
+  • Global shipping and installation support
+  • Compatible with national/international training standards
+  • Full product line: driving, racing, truck, and electric vehicle simulators
 
-{lang_config['challenges'].format(company='[Company Name]')}:
-{challenges}
+Product Features - {product_config['name']} ({product_config['model_range']}):
+{features_text}
 
-{lang_config['call_to_action'].format(type=customer_type.replace('_', ' '))}
+{lang_config['call_to_action']}
 
-{lang_config['closing']}
+Best regards,
 {lang_config['signature']}"""
     
     return {
@@ -306,16 +355,13 @@ def generate_email_campaign(campaign_name: str, customer_types: List[str], produ
     emails = []
     
     for customer_type in customer_types:
-        # Initial email
         initial = generate_email_template(customer_type, product, language, follow_up=False)
         emails.append(initial)
         
-        # Follow-up email (3 days later)
         follow_up = generate_email_template(customer_type, product, language, follow_up=True)
         follow_up["send_delay_days"] = 3
         emails.append(follow_up)
         
-        # Second follow-up (7 days later)
         second_followup = generate_email_template(customer_type, product, language, follow_up=True)
         second_followup["subject"] = "Last follow-up: Transform Your Training Operations"
         second_followup["send_delay_days"] = 10
@@ -356,21 +402,22 @@ def export_to_csv(campaign: Dict, filename: str = "email_campaign.csv"):
                 "Draft"
             ])
     
-    print(f"✅ Exported {len(campaign['emails'])} emails to {filename}")
+    print(f"   ✅ Exported {len(campaign['emails'])} emails to {filename}")
 
 
 def generate_multilingual_campaign(target_regions: List[str]) -> Dict:
     """Generate multilingual email campaign for multiple regions"""
     language_map = {
-        "north_america": ["en", "es"],
-        "europe": ["en", "fr", "de", "fr"],
+        "north_america": ["en"],
+        "europe": ["en", "es", "fr"],
         "southeast_asia": ["en"],
         "middle_east": ["en", "ar"],
         "oceania": ["en"]
     }
     
     campaign = {
-        "campaign_name": "Global Outreach Campaign",
+        "campaign_name": "Global Outreach Campaign - Foshan Easyly",
+        "company": COMPANY["name"],
         "regions": {},
         "total_emails": 0
     }
@@ -380,12 +427,10 @@ def generate_multilingual_campaign(target_regions: List[str]) -> Dict:
         region_emails = []
         
         for language in languages:
-            # Skip languages that aren't defined
             if language not in LANGUAGES:
                 continue
-            # Generate templates for different customer types in each language
-            for customer_type in ["b2b_driving_school", "b2b_flight_school", "b2b_cdl"]:
-                for product in ["automotive", "flight"]:
+            for customer_type in ["b2b_driving_school", "b2b_cdl"]:
+                for product in ["driving_simulator", "heavy_vehicle"]:
                     email = generate_email_template(customer_type, product, language, follow_up=False)
                     email["region"] = region
                     email["language"] = language
@@ -403,20 +448,14 @@ def generate_multilingual_campaign(target_regions: List[str]) -> Dict:
 
 def main():
     print("=" * 80)
-    print("ProMotion Simulators - Email Outreach System")
+    print(f"Foshan Easyly New Technology Co., Ltd. - Email Outreach System")
     print(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print("=" * 80)
     
-    # Generate sample campaigns for different customer types
     campaigns = {
         "Driving Schools": {
             "customer_types": ["b2b_driving_school"],
-            "product": "automotive",
-            "language": "en"
-        },
-        "Flight Schools": {
-            "customer_types": ["b2b_flight_school"],
-            "product": "flight",
+            "product": "driving_simulator",
             "language": "en"
         },
         "CDL Centers": {
@@ -426,35 +465,34 @@ def main():
         },
         "Simulator Shops": {
             "customer_types": ["b2b2c_simulator_shop"],
-            "product": "motion_platform",
+            "product": "racing_simulator",
+            "language": "en"
+        },
+        "Consumer Enthusiasts": {
+            "customer_types": ["consumer"],
+            "product": "racing_simulator",
             "language": "en"
         }
     }
     
+    for campaign_name, config in campaigns.items():
+        print(f"\n   Generating {campaign_name} campaign...")
+        campaign = generate_email_campaign(campaign_name, config["customer_types"], config["product"], config["language"])
+        print(f"   {campaign['total_emails']} emails generated")
+    
+    print(f"\n   Generating multilingual global campaign...")
+    global_campaign = generate_multilingual_campaign(["north_america", "europe", "southeast_asia", "middle_east"])
+    print(f"   {global_campaign['total_emails']} multilingual emails generated")
+    print(f"   Regions: {', '.join(global_campaign['regions'].keys())}")
+    
+    print(f"\n   Exporting campaigns...")
     generated_campaigns = {}
     for campaign_name, config in campaigns.items():
-        print(f"\n📧 Generating {campaign_name} campaign...")
         campaign = generate_email_campaign(campaign_name, config["customer_types"], config["product"], config["language"])
         generated_campaigns[campaign_name] = campaign
-        print(f"   ✓ {campaign['total_emails']} emails generated")
-        print(f"   ✓ Campaign duration: {campaign['estimated_duration']}")
+        export_to_csv(campaign, f"{campaign_name.lower().replace(' ', '_')}_campaign.csv")
     
-    # Generate multilingual campaign
-    print(f"\n🌍 Generating multilingual global campaign...")
-    global_campaign = generate_multilingual_campaign(["north_america", "europe", "southeast_asia", "middle_east"])
-    print(f"   ✓ {global_campaign['total_emails']} multilingual emails generated")
-    print(f"   ✓ Regions: {', '.join(global_campaign['regions'].keys())}")
-    
-    # Export campaigns
-    print(f"\n📁 Exporting campaigns...")
-    for campaign_name, generated in generated_campaigns.items():
-        export_to_csv(generated, f"{campaign_name.lower().replace(' ', '_')}_campaign.csv")
-    
-    print(f"\n✅ Email outreach system ready!")
-    print(f"📋 Next steps:")
-    print(f"   1. Review email templates by customer type")
-    print(f"   2. Customize content for specific regions")
-    print(f"   3. Schedule email sending sequence")
+    print(f"\n   Email outreach system ready!")
 
 
 if __name__ == "__main__":
