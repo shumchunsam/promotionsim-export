@@ -1,0 +1,405 @@
+================================================================================
+FOSHAN EASYLY - FAQ AND RESPONSE TEMPLATES
+常见问题和回复模板
+================================================================================
+
+Generated: 2026-07-05
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+FAQ - CUSTOMER QUESTIONS
+================================================================================
+
+Q1: What is the lead time for delivery?
+A1: Standard models take 15-20 days. Custom models take 25-30 days. We can arrange expedited production if you have urgent needs.
+
+Q2: Do you offer installation support?
+A2: Yes, we provide detailed installation manuals and video tutorials. For bulk orders, we can send engineers to your location for on-site installation and training.
+
+Q3: What warranty do you offer?
+A3: Standard warranty is 2 years for all products. We also offer extended warranty options up to 5 years. After warranty, we continue to provide spare parts and technical support.
+
+Q4: Can the simulator be used with my existing training software?
+A4: Our simulators are compatible with most major training software. Please share your software requirements, and we will confirm compatibility and provide integration support.
+
+Q5: Do you provide spare parts?
+A5: Yes, we keep spare parts in stock. Common parts like steering wheels, pedals, and monitors can be shipped within 3-5 days. For specialized parts, lead time is 7-10 days.
+
+Q6: Can you customize the simulator with our branding?
+A6: Absolutely. We offer OEM/ODM services including custom colors, logo printing, and branded packaging. This is especially popular for driving school chains and entertainment venues.
+
+Q7: What is your minimum order quantity (MOQ)?
+A7: Our MOQ is 1 unit. We welcome sample orders to test our quality and performance before placing bulk orders.
+
+Q8: How do you handle shipping and customs?
+A8: We can ship FOB (Free On Board) or CIF (Cost, Insurance, Freight). We handle export documentation and provide all necessary certificates for customs clearance.
+
+Q9: Do you provide training for our staff?
+A9: Yes, we provide comprehensive training including operation, maintenance, and basic troubleshooting. For bulk orders, we offer on-site training at no additional cost.
+
+Q10: What payment terms do you accept?
+A10: We accept T/T (Telegraphic Transfer), L/C (Letter of Credit), and other standard international payment methods. For sample orders, we accept PayPal and Western Union.
+
+================================================================================
+RESPONSE TEMPLATES - WHEN CUSTOMERS ASK QUESTIONS
+================================================================================
+
+TEMPLATE 1: Customer asks about price
+---------------------------------------
+"Thank you for your interest in our simulators. Our pricing varies based on:
+• Product type (driving/racing/heavy vehicle)
+• Specifications (screen size, motion platform, software)
+• Quantity ordered
+
+I would be happy to provide a detailed quotation. Could you please share:
+1. Which product interests you most?
+2. How many units do you need?
+3. What is your delivery location?
+4. Do you have any specific requirements?
+
+Once I have this information, I will send you a comprehensive quotation within 24 hours."
+
+TEMPLATE 2: Customer asks about shipping time
+---------------------------------------------
+"Standard simulators take 15-20 days to manufacture. Shipping time depends on your location:
+• North America: 15-25 days
+• Europe: 20-30 days
+• Southeast Asia: 10-15 days
+• Middle East: 15-20 days
+• Other regions: 20-35 days
+
+Total time from order to delivery: 30-45 days.
+We will keep you updated throughout the process."
+
+TEMPLATE 3: Customer wants sample/preview
+-----------------------------------------
+"We welcome sample orders. You can start with 1 unit to test quality and performance.
+
+For your reference:
+• Sample order lead time: 15-20 days
+• Sample shipping: DHL/FedEx (3-7 days)
+• We provide installation support and training
+• Sample order qualifies for 2-year warranty
+
+Would you like me to send you our latest product catalog and pricing?"
+
+TEMPLATE 4: Customer asks about warranty
+----------------------------------------
+"We provide a standard 2-year warranty on all products. This covers:
+• Manufacturing defects
+• Component failures
+• Software issues
+
+During warranty, we provide:
+• Free replacement parts
+• Remote technical support (24/7)
+• On-site service (for bulk orders)
+
+Extended warranty up to 5 years is available at additional cost."
+
+TEMPLATE 5: Customer asks about customization
+---------------------------------------------
+"We offer full customization services:
+• Custom cockpit design and colors
+• Custom logo and branding
+• Custom software integration
+• Custom motion platform specifications
+• OEM/ODM services
+
+Our engineering team will work closely with you to ensure the final product meets your exact requirements.
+
+Could you tell me what specific customizations you need?"
+
+TEMPLATE 6: Customer is considering competitors
+-----------------------------------------------
+"I understand you are evaluating different options. Here is why 50+ training centers worldwide chose Foshan Easyly:
+
+1. FACTORY DIRECT - We are the manufacturer, not a middleman. This means better pricing and direct communication.
+
+2. 20+ YEARS EXPERIENCE - Manufacturing simulators since 2004. We have deep expertise and proven track record.
+
+3. FULL PRODUCT LINE - We cover driving simulators, racing platforms, heavy vehicle simulators, and custom motion platforms.
+
+4. GLOBAL SUPPORT - We serve customers in 50+ countries with 24/7 technical support.
+
+5. COMPETITIVE PRICING - Our factory-direct pricing is typically 30-60% lower than Western brands with comparable quality.
+
+I would be happy to send you our product catalog and arrange a video call to discuss your specific needs."
+
+TEMPLATE 7: Customer says "too expensive"
+-----------------------------------------
+"I understand budget is a consideration. Let me share some data:
+
+• Our customers typically save 70-90% on fuel costs compared to traditional training
+• Training efficiency increases by 40-70% with simulators
+• Zero accident liability during training
+• No maintenance costs for vehicles
+
+The ROI is typically achieved within 6-12 months. Many of our customers tell us they wish they had switched to simulators sooner.
+
+I can send you a detailed ROI calculation for your specific situation. Would that be helpful?"
+
+TEMPLATE 8: Customer hasn't responded after quote
+--------------------------------------------------
+"Hi [Name],
+
+I wanted to follow up on my quotation sent on [date]. 
+
+I understand you may be evaluating multiple suppliers. We are committed to providing the best possible solution for your needs.
+
+Would you like me to:
+• Answer any questions about our products
+• Arrange a video call to show you our simulators in action
+• Provide references from existing customers
+• Send additional technical specifications
+
+Please let me know how I can assist you further.
+
+Best regards,
+Samson"
+
+TEMPLATE 9: Customer asks about payment terms
+----------------------------------------------
+"We accept the following payment methods:
+• T/T (Telegraphic Transfer) - 30% deposit, 70% before shipment
+• L/C (Letter of Credit) - For orders over $10,000
+• PayPal/Western Union - For sample orders
+
+We also offer payment plans for large orders. Let me know your preference and I will arrange the details."
+
+TEMPLATE 10: Customer asks about after-sales support
+----------------------------------------------------
+"We provide comprehensive after-sales support:
+
+1. REMOTE SUPPORT (24/7)
+   • WhatsApp/Email support
+   • Remote troubleshooting via TeamViewer
+   • Software updates and upgrades
+
+2. SPARE PARTS
+   • Parts available within 3-5 days
+   • Comprehensive spare parts inventory
+   • Competitive spare parts pricing
+
+3. ON-SITE SERVICE
+   • Available for bulk orders
+   • Installation and commissioning
+   • Staff training
+   • Annual maintenance visits
+
+4. WARRANTY
+   • 2-year standard warranty
+   • Extended warranty available
+   • Lifetime technical support
+
+We are committed to your long-term satisfaction."
+
+================================================================================
+SOCIAL MEDIA POSTS - COPY AND PASTE
+================================================================================
+
+POST 1: Product Showcase (Instagram/LinkedIn)
+---------------------------------------------
+"Our latest driving simulator is ready for delivery! 🚗
+
+This professional-grade simulator features:
+• Full dashboard with realistic controls
+• Multi-screen display system
+• Custom cockpit design
+• Compatible with major training software
+
+Built by Foshan Easyly - 20+ years manufacturing expertise.
+
+📧 Email: 260240751@qq.com
+🌐 www.studycar.com/en/
+
+#drivingsimulator #drivingtraining #simulator #easyly #drivingschools"
+
+POST 2: Factory Tour (Facebook/LinkedIn)
+-----------------------------------------
+"Take a peek inside our manufacturing facility in Foshan, China! 🏭
+
+Each simulator goes through 200+ quality checks before shipping.
+
+From raw materials to finished product - we control every step of the process.
+
+📧 Email: 260240751@qq.com
+📞 +86 13798624342
+
+#manufacturing #qualitycontrol #drivingsimulator #chinesemanufacturing"
+
+POST 3: Customer Success (LinkedIn)
+------------------------------------
+"Driving schools worldwide are switching to simulators and saving 70-90% on fuel costs! 💰
+
+Our customers report:
+• Zero accident liability during training
+• 24/7 training availability
+• Improved student pass rates
+• Faster ROI than expected
+
+Since 2004, we have helped 50+ training centers transform their operations.
+
+📧 Email: 260240751@qq.com
+🌐 www.studycar.com/en/
+
+#drivingschools #training #simulator #costsavings"
+
+POST 4: Behind the Scenes (Instagram Stories)
+----------------------------------------------
+"Assembly Line Day! 🔧
+
+Today our engineers are installing:
+• Steering systems
+• Pedal units
+• Display mounts
+• Control panels
+
+Every simulator is hand-built with precision.
+
+#behindthescenes #assembly #quality #drivingsimulator"
+
+POST 5: Industry Insight (LinkedIn)
+------------------------------------
+"2026 Driving Training Trends:
+
+1. Simulators replacing traditional vehicles
+2. VR/AR integration for immersive training
+3. Focus on safety-first training methods
+4. Cost reduction becoming priority
+5. Government regulations supporting simulator training
+
+At Foshan Easyly, we are leading this transformation with professional simulators since 2004.
+
+What trends are you seeing in your market?
+
+#drivingtraining #education #technology #simulator"
+
+================================================================================
+WHATSAPP MESSAGES FOR DIFFERENT SCENARIOS
+================================================================================
+
+MESSAGE 1: Initial Contact (Southeast Asia)
+--------------------------------------------
+"Hello [Name],
+
+I am Samson from Foshan Easyly. We manufacture driving simulators in Foshan, China since 2004.
+
+We help driving schools reduce fuel costs by 70%+. Our simulators are used by 50+ training centers worldwide.
+
+Would you be interested in our product catalog?
+
+Thanks!
+Samson"
+
+MESSAGE 2: Follow-up (after 3 days)
+------------------------------------
+"Hi [Name],
+
+Just checking if you received my previous message. I would love to discuss how our simulators can help [Company Name].
+
+I can send you:
+• Product catalog with pricing
+• Video demonstration
+• Customer references
+
+Let me know what would be most helpful.
+
+Thanks,
+Samson"
+
+MESSAGE 3: Sending Catalog
+--------------------------
+"Hi [Name],
+
+Here is our product catalog: [attach PDF/image]
+
+We have:
+1. Car Driving Simulators (YSL2021-86/88)
+2. 6-DOF Racing Platforms
+3. Truck/Bus Simulators
+4. Electric Training Vehicles
+
+For pricing, please tell me:
+1. Which product interests you?
+2. How many units?
+3. Delivery location?
+
+I will send quotation within 24 hours.
+
+Thanks,
+Samson"
+
+MESSAGE 4: Scheduling Call
+---------------------------
+"Hi [Name],
+
+Would you be available for a quick 15-minute call this week? I would like to:
+• Show you simulators in action (video call)
+• Discuss your specific requirements
+• Provide detailed pricing
+
+I am available [provide 2-3 time slots].
+
+What works best for you?
+
+Thanks,
+Samson"
+
+================================================================================
+FOLLOW-UP EMAIL TIMELINE
+================================================================================
+
+DAY 0: Send initial email
+DAY 3: Send follow-up email (if no response)
+DAY 7: Send second follow-up email
+DAY 14: Send final follow-up with ROI calculation
+DAY 30: If still no response, move to "cold" list and check quarterly
+
+SAMPLE FOLLOW-UP EMAIL #1 (Day 3)
+---------------------------------
+"Hi [Name],
+
+Just checking if you had a chance to review my previous email about our driving simulators.
+
+We have helped 50+ driving schools reduce training costs by 70-90%. I would be happy to share some case studies if you are interested.
+
+Best regards,
+Samson"
+
+SAMPLE FOLLOW-UP EMAIL #2 (Day 7)
+---------------------------------
+"Hi [Name],
+
+I wanted to follow up on my previous emails. Our simulators have helped driving schools in [Country] achieve:
+
+• 70%+ cost reduction
+• 40% faster training completion
+• Zero accident liability
+
+Would you be open to a brief call to see if we can help [Company Name]?
+
+Best regards,
+Samson"
+
+SAMPLE FOLLOW-UP EMAIL #3 (Day 14)
+-----------------------------------
+"Hi [Name],
+
+This is my final follow-up. Our simulators are designed to pay for themselves within 6-12 months through fuel savings and increased training capacity.
+
+If you are not the right person to speak with, could you please direct me to the appropriate contact?
+
+Either way, thank you for your time.
+
+Best regards,
+Samson"
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+
+For any questions or additional templates, please contact:
+260240751@qq.com | +86 13798624342
+www.studycar.com/en/
