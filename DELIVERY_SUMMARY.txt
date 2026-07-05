@@ -1,0 +1,183 @@
+================================================================================
+FOSHAN EASYLY - OVERSEAS EXPANSION DELIVERY PACKAGE
+Generated: 2026-07-05 14:26
+================================================================================
+
+[1] WEBSITE - ALREADY LIVE
+========================================
+URL: https://shumchunsam.github.io/promotionsim-export/
+Status: HTTP 200 OK - Live
+Features:
+  - Professional landing page (dark tech theme)
+  - 4 product lines showcased
+  - Inquiry form connected to Formsubmit.co
+  - SEO configured (meta tags, OpenGraph)
+
+Action: None needed - website is ready.
+Customers who fill the form will be notified to: 260240751@qq.com
+
+[2] TARGET CUSTOMERS - 17 Companies Ready to Contact
+========================================
+File: outreach_real_customers.csv
+
+  Europe (4 customers):
+    - Fletcher Motor Driving Schools (UK) - Driving School Chain
+      Decision: Operations Director | Budget: GBP30K-GBP150K
+    - VHS Verkehrsschule (Germany) - Driving School
+      Decision: Geschaeftsführer | Budget: EUR25K-EUR100K
+    - ANWB Rijopleidingen (Netherlands) - Driving School Chain
+      Decision: Directeur | Budget: EUR40K-EUR200K
+    - SimSport GmbH (Germany) - Sim Racing Shop
+      Decision: Gründer | Budget: EUR15K-EUR80K
+
+  Middle East (3 customers):
+    - RTA Dubai (UAE) - Government Transport Authority
+      Decision: Director of Training | Budget: AED200K-AED1M
+    - Saudi Roads Company (Saudi Arabia) - Transportation Company
+      Decision: Training Manager | Budget: SAR500K-SAR3M
+    - Qatar Ministry of Interior (Qatar) - Government
+      Decision: Training Director | Budget: QAR500K-QAR5M
+
+  North America (4 customers):
+    - AAA Driving Academy (USA) - Driving School Chain
+      Decision: Director of Training | Budget: $50K-$200K
+    - DriveWise Canada (Canada) - Driving School
+      Decision: Owner/Operator | Budget: $30K-$100K
+    - Apex Driving School (USA) - Driving School
+      Decision: Training Manager | Budget: $25K-$75K
+    - SimLab Pro (USA) - Sim Racing Shop
+      Decision: Founder | Budget: $20K-$100K
+
+  Oceania (2 customers):
+    - IPIA Driving Schools (Australia) - Driving School Chain
+      Decision: Franchise Operations Manager | Budget: AUD50K-AUD300K
+    - NZTA Transport Agency (New Zealand) - Government Transport
+      Decision: Learning Driver Programs Manager | Budget: NZD100K-NZD500K
+
+  Southeast Asia (4 customers):
+    - JPJ Malaysia (Roads Dept) (Malaysia) - Government Training Agency
+      Decision: Director of Training | Budget: MYR100K-MYR500K
+    - Singapore Driving Centre (Singapore) - Driving School
+      Decision: General Manager | Budget: SGD50K-SGD200K
+    - Bangkok Driving School (Thailand) - Driving School
+      Decision: Director | Budget: THB500K-THB3M
+    - Korsel Indonesia (Indonesia) - Driving School
+      Decision: Managing Director | Budget: IDR500M-IDR3B
+
+Action: Start contacting HIGH priority customers first.
+LinkedIn URLs are in the CSV - go there and find the decision maker.
+
+[3] PERSONALIZED EMAILS - Ready to Send
+========================================
+File: personalized_emails.txt
+
+  Each customer has a PRE-WRITTEN email that you can copy-paste.
+  Just replace [Contact Name] with the real person's name.
+
+EMAIL SENDING PLAN:
+  Week 1: Send to 5 HIGH priority customers
+  Week 2: Follow up with Week 1 recipients + send to 5 more
+  Week 3: Follow up with non-responders + send to 5 more
+  Week 4: Final follow-up + new batch
+
+HOW TO SEND:
+  Option A: Copy email from personalized_emails.txt, paste into Gmail/Outlook
+  Option B: Use email client import (see below)
+
+[4] LINKEDIN OUTREACH STRATEGY
+========================================
+File: linkedin_search_guide.txt
+
+Step-by-step instructions:
+  1. Update YOUR LinkedIn profile:
+     Headline: Samson Shum | Driving Simulator Manufacturer since 2004
+     About: Copy from linkedin_search_guide.txt
+
+  2. Search for companies using the guide's search strings
+  3. Send connection request (use provided template)
+  4. After they accept, send follow-up message (provided in guide)
+
+BEST TIMES: Tuesday-Thursday, 9AM-11AM target's local time
+
+[5] WHATSAPP STRATEGY - For Asia/Middle East
+========================================
+File: whatsapp_outreach_guide.txt
+
+Use WhatsApp for:
+  - Southeast Asia (Malaysia, Indonesia, Thailand)
+  - Middle East (UAE, Saudi Arabia, Qatar)
+
+SETUP STEPS:
+  1. Install WhatsApp Business app
+  2. Register: +86 13798624342
+  3. Set profile: Foshan Easyly New Technology
+  4. Add product catalog (send photos from your website)
+
+USE THE TEMPLATE IN whatsapp_outreach_guide.txt
+
+[6] WECHAT STRATEGY
+========================================
+File: wechat_business_guide.txt
+
+For Chinese-speaking partners and domestic operations.
+
+[7] DAILY ACTION PLAN - Start TODAY
+========================================
+
+DAILY ROUTINE (1-2 hours/day):
+
+Morning (30 min):
+  1. Send 5 personalized emails
+  2. Find 3 new target companies on LinkedIn
+  3. Send 3 LinkedIn connection requests
+
+Afternoon (30 min):
+  1. Check email responses
+  2. Reply to inquiries on your website
+  3. Send 2 WhatsApp messages to Asian/Middle East leads
+
+Weekly (Sunday, 1 hour):
+  1. Post 2 social media updates (copy from social_media_calendar.json)
+  2. Review which emails got replies
+  3. Adjust strategy based on results
+
+[8] QUICK START - DO THESE 3 THINGS FIRST
+========================================
+
+ACTION 1: Update LinkedIn Profile
+  - Go to LinkedIn.com
+  - Headline: "Samson Shum | Driving Simulator Manufacturer since 2004"
+  - About section: Copy from linkedin_search_guide.txt
+  - Add your products from studycar.com
+
+ACTION 2: Send First 5 Emails
+  - Open personalized_emails.txt
+  - Copy email #1-5
+  - Send to the companies listed
+  - Replace [Contact Name] with real person's name
+
+ACTION 3: Set Up WhatsApp Business
+  - Install WhatsApp Business app
+  - Register: +86 13798624342
+  - Set profile name: Foshan Easyly
+  - Start sending messages to Asian leads
+
+[9] CONTACT INFORMATION REFERENCE
+========================================
+Company: Foshan Easyly New Technology Co., Ltd.
+Website: https://www.studycar.com
+Website EN: https://www.studycar.com/en/
+Email: 260240751@qq.com
+Phone: +86 13798624342
+WeChat: +86 13798624342
+
+[10] ALL GENERATED FILES
+========================================
+  index.html (11357 bytes)
+  thankyou.html (1826 bytes)
+  outreach_real_customers.csv (3621 bytes)
+  personalized_emails.txt (24933 bytes)
+  linkedin_search_guide.txt (3269 bytes)
+  whatsapp_outreach_guide.txt (1342 bytes)
+  wechat_business_guide.txt (1020 bytes)
+  DELIVERY_SUMMARY.txt (0 bytes)

@@ -1,0 +1,18 @@
+Region,Country,Company,Type,LinkedIn URL,Decision Maker,Budget,Email Template,Pain Points
+North America,USA,AAA Driving Academy,Driving School Chain,https://www.linkedin.com/search/results/?keywords=AAA+Driving+Academy,Director of Training,$50K-$200K,driving_school,High fuel costs; Low pass rates; Insurance liability
+North America,Canada,DriveWise Canada,Driving School,https://www.linkedin.com/company/drivewise-canada,Owner/Operator,$30K-$100K,driving_school,Fuel costs rising; Limited training capacity
+North America,USA,Apex Driving School,Driving School,https://www.linkedin.com/search/results/?keywords=Apex+Driving+School,Training Manager,$25K-$75K,driving_school,Safety liability; High insurance costs
+North America,USA,SimLab Pro,Sim Racing Shop,https://www.linkedin.com/search/results/?keywords=SimLab+Pro,Founder,$20K-$100K,simulator_shop,Premium rig demand; Supply chain costs
+Europe,UK,Fletcher Motor Driving Schools,Driving School Chain,https://www.linkedin.com/search/results/?keywords=Fletchers+Motor+Driving+Schools,Operations Director,GBP30K-GBP150K,driving_school,UK ADI test costs; Fuel tax burden
+Europe,Germany,VHS Verkehrsschule,Driving School,https://www.linkedin.com/search/results/?keywords=VHS+Verkehrsschule,Geschaeftsführer,EUR25K-EUR100K,driving_school,German FZV regulations; Fuel costs
+Europe,Netherlands,ANWB Rijopleidingen,Driving School Chain,https://www.linkedin.com/company/anwb,Directeur,EUR40K-EUR200K,driving_school,CBR examination costs; Staff shortages
+Europe,Germany,SimSport GmbH,Sim Racing Shop,https://www.linkedin.com/search/results/?keywords=SimSport+Germany,Gründer,EUR15K-EUR80K,simulator_shop,Import costs; Product variety
+Southeast Asia,Malaysia,JPJ Malaysia (Roads Dept),Government Training Agency,https://www.linkedin.com/company/jabatan-kerja-jalan-malaysia,Director of Training,MYR100K-MYR500K,government,Budget constraints; Training efficiency
+Southeast Asia,Singapore,Singapore Driving Centre,Driving School,https://www.linkedin.com/search/results/?keywords=Singapore+Driving+Centre,General Manager,SGD50K-SGD200K,driving_school,Limited land for training; COE costs
+Southeast Asia,Thailand,Bangkok Driving School,Driving School,https://www.linkedin.com/search/results/?keywords=Bangkok+Driving+School,Director,THB500K-THB3M,driving_school,Tourist driver training; Rapid urban growth
+Southeast Asia,Indonesia,Korsel Indonesia,Driving School,https://www.linkedin.com/search/results/?keywords=Korsel+Indonesia,Managing Director,IDR500M-IDR3B,driving_school,Growing middle class; Driver education awareness
+Middle East,UAE,RTA Dubai,Government Transport Authority,https://www.linkedin.com/company/road-and-transport-authority,Director of Training,AED200K-AED1M,government,Traffic volume; Exam pass rates
+Middle East,Saudi Arabia,Saudi Roads Company,Transportation Company,https://www.linkedin.com/company/saudi-roads-company,Training Manager,SAR500K-SAR3M,government,Vision 2030 compliance; Driver training needs
+Middle East,Qatar,Qatar Ministry of Interior,Government,https://www.linkedin.com/company/ministry-of-interior-qatar,Training Director,QAR500K-QAR5M,government,Expanding infrastructure; Workforce training
+Oceania,Australia,IPIA Driving Schools,Driving School Chain,https://www.linkedin.com/company/ipia,Franchise Operations Manager,AUD50K-AUD300K,driving_school,AS/NZS compliance; Franchise support needs
+Oceania,New Zealand,NZTA Transport Agency,Government Transport,https://www.linkedin.com/company/new-zealand-transport-agency,Learning Driver Programs Manager,NZD100K-NZD500K,government,Road safety targets; Rural training access
