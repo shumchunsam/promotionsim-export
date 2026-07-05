@@ -1,0 +1,378 @@
+================================================================================
+FOSHAN EASYLY - WEEKLY SALES EXECUTION PLAN
+每周销售执行计划
+================================================================================
+
+Generated: 2026-07-05
+Contact: 260240751@qq.com | +86 13798624342
+Website: https://www.studycar.com/en/
+
+================================================================================
+MONDAY - NEW WEEK KICKOFF
+================================================================================
+
+Morning (9:00 AM - 11:00 AM):
+-------------------------------
+1. Review last week's progress:
+   - How many emails sent? [number]
+   - How many replies received? [number]
+   - How many calls scheduled? [number]
+   - How many quotes sent? [number]
+
+2. Set this week's targets:
+   - Emails to send: [10-15]
+   - LinkedIn connections: [10-15]
+   - WhatsApp messages: [5-10]
+   - Quotes to send: [3-5]
+   - Calls to schedule: [2-3]
+
+3. Prepare email batch:
+   - Select 5 companies from outreach_real_customers.csv
+   - Find decision maker contacts via LinkedIn
+   - Prepare personalized emails for each
+   - Schedule sending times (spread throughout week)
+
+Afternoon (2:00 PM - 4:00 PM):
+-------------------------------
+4. Send first batch of 5 emails:
+   - Use templates from personalized_emails.txt
+   - Replace [Contact Name] with real names
+   - Include product catalog attachment (product_catalog_en.txt)
+   - Track sent emails in spreadsheet
+
+5. Send 5 LinkedIn connection requests:
+   - Use search strings from linkedin_search_guide.txt
+   - Include personalized note with connection request
+   - Target: Directors, Owners, Training Managers
+
+Evening (7:00 PM - 8:00 PM):
+-------------------------------
+6. Send 3 WhatsApp messages to Southeast Asia/Middle East leads:
+   - Use WhatsApp templates from WhatsApp strategy guide
+   - Follow up on previous week's messages
+   - Send product catalog to interested leads
+
+================================================================================
+TUESDAY - ACTIVE OUTREACH
+================================================================================
+
+Morning (9:00 AM - 11:00 AM):
+-------------------------------
+1. Send second batch of 5 emails:
+   - Follow up on Monday's emails (if no response)
+   - Send new emails to different prospects
+
+2. Follow up on previous week's quotes:
+   - Check if any quotes need follow-up
+   - Send additional information if requested
+   - Address any questions or concerns
+
+3. LinkedIn engagement:
+   - Comment on 3-5 relevant posts
+   - Share 1 industry insight post
+   - Post product update or company news
+
+Afternoon (2:00 PM - 4:00 PM):
+-------------------------------
+4. Research new prospects:
+   - Find 5 new companies via LinkedIn search
+   - Verify decision maker contacts
+   - Add to outreach list
+
+5. Prepare 2 quotes:
+   - Use pricing calculator (see below)
+   - Include product specifications
+   - Add shipping and delivery timeline
+   - Attach company profile and certifications
+
+6. WhatsApp follow-ups:
+   - Follow up on Thursday's messages
+   - Send product videos to interested leads
+   - Schedule video calls for next week
+
+================================================================================
+WEDNESDAY - DEEPENGAGEMENT
+================================================================================
+
+Morning (9:00 AM - 11:00 AM):
+-------------------------------
+1. Send third batch of 5 emails:
+   - Focus on high-priority targets
+   - Include customer testimonials and case studies
+   - Add ROI calculations where relevant
+
+2. Video call preparation:
+   - Prepare for any scheduled calls
+   - Set up demo environment
+   - Prepare presentation slides
+
+3. Content creation:
+   - Create 1 social media post for the week
+   - Take product photos/videos from factory
+   - Prepare customer case study content
+
+Afternoon (2:00 PM - 4:00 PM):
+-------------------------------
+4. Conduct video calls/demos:
+   - Use Zoom/Teams for international calls
+   - Show simulators in action
+   - Answer technical questions
+   - Collect requirements for quotes
+
+5. Follow up on Wednesday morning emails:
+   - Respond to any replies received
+   - Schedule calls for interested prospects
+   - Send additional information as needed
+
+6. WhatsApp engagement:
+   - Send product demonstration videos
+   - Share customer testimonials
+   - Follow up on quotes sent
+
+================================================================================
+THURSDAY - QUOTES AND FOLLOWS
+================================================================================
+
+Morning (9:00 AM - 11:00 AM):
+-------------------------------
+1. Send quotes to interested prospects:
+   - Include detailed specifications
+   - Provide payment terms
+   - Specify delivery timeline
+   - Attach company profile and certifications
+
+2. Follow up on all previous quotes:
+   - Check for responses
+   - Address any concerns
+   - Negotiate pricing if needed
+   - Close deals where possible
+
+3. LinkedIn outreach:
+   - Send 5 connection requests to new prospects
+   - Follow up on pending connection acceptances
+   - Engage with posts from target companies
+
+Afternoon (2:00 PM - 4:00 PM):
+-------------------------------
+4. Prepare proposals for high-value prospects:
+   - Government/defense projects ($100K+)
+   - Large driving school chains (10+ locations)
+   - Custom motion platform projects
+
+5. Internal coordination:
+   - Update sales pipeline spreadsheet
+   - Report progress to management
+   - Plan next week's activities
+
+6. WhatsApp outreach:
+   - Send personalized video messages
+   - Share product comparison charts
+   - Follow up on all pending inquiries
+
+================================================================================
+FRIDAY - REVIEW AND CLOSE
+================================================================================
+
+Morning (9:00 AM - 11:00 AM):
+-------------------------------
+1. Final push on pending quotes:
+   - Send final follow-up emails
+   - Include special offers or limited-time discounts
+   - Create urgency without being pushy
+
+2. Prepare weekly report:
+   - Total emails sent: [number]
+   - Total LinkedIn connections: [number]
+   - Total WhatsApp messages: [number]
+   - Quotes sent: [number]
+   - Calls completed: [number]
+   - Deals closed: [number]
+
+3. Update CRM/pipeline:
+   - Move prospects to appropriate stages
+   - Add notes from all communications
+   - Set follow-up reminders
+
+Afternoon (2:00 PM - 4:00 PM):
+-------------------------------
+4. Customer service:
+   - Respond to any customer inquiries
+   - Follow up on existing orders
+   - Handle warranty/service requests
+
+5. Content posting:
+   - Post 1-2 updates on social media
+   - Share company news or product updates
+   - Engage with comments and messages
+
+6. Plan next week:
+   - Review this week's results
+   - Identify top prospects for next week
+   - Prepare email templates
+   - Schedule LinkedIn search sessions
+
+================================================================================
+WEEKLY TARGETS AND METRICS
+================================================================================
+
+DAILY TARGETS:
+--------------
+• Emails sent: 5-7
+• LinkedIn connections: 3-5
+• WhatsApp messages: 2-3
+• Follow-ups: 3-5
+
+WEEKLY TARGETS:
+--------------
+• Total emails sent: 25-35
+• Total LinkedIn connections: 15-25
+• Total WhatsApp messages: 10-15
+• Total quotes sent: 3-5
+• Total calls scheduled: 3-5
+• Total deals closed: 1-2
+
+MONTHLY TARGETS:
+--------------
+• Total emails sent: 100-140
+• Total LinkedIn connections: 60-100
+• Total quotes sent: 12-20
+• Total calls completed: 12-20
+• Total deals closed: 4-8
+• Revenue target: $50,000-$200,000
+
+================================================================================
+SALES PIPELINE TRACKING SPREADSHEET
+================================================================================
+
+Create a spreadsheet with these columns:
+
+| Date | Company | Country | Contact | Email Sent | Reply Received | Status | Next Action | Follow-up Date |
+
+Status Options:
+• New Lead - Initial contact made
+• Contacted - Email sent, awaiting response
+• Interested - Positive response received
+• Demo Scheduled - Video call/demo arranged
+• Quote Sent - Pricing proposal sent
+• Negotiating - Price/terms discussion
+• Proposal Sent - Formal proposal submitted
+• Closed Won - Deal closed
+• Closed Lost - Deal lost
+• On Hold - Waiting for customer decision
+
+================================================================================
+QUOTATION FORMATTING GUIDE
+================================================================================
+
+When sending a quotation, always include:
+
+1. COMPANY HEADER
+   Foshan Easyly New Technology Co., Ltd.
+   Email: 260240751@qq.com | Phone: +86 13798624342
+   Website: www.studycar.com/en/
+
+2. QUOTATION DETAILS
+   - Quotation Number: [unique ID]
+   - Date: [date]
+   - Valid Until: [date + 30 days]
+   - Customer: [name and company]
+
+3. PRODUCT DETAILS
+   - Product name and model
+   - Quantity
+   - Unit price
+   - Total price
+
+4. PAYMENT TERMS
+   • 30% deposit upon order confirmation
+   • 70% before shipment
+   • T/T or L/C accepted
+
+5. DELIVERY TERMS
+   • Lead time: [X] days
+   • Shipping: [FOB/CIF]
+   • Packaging: [standard export packaging]
+
+6. WARRANTY
+   • 2-year warranty
+   • 24/7 technical support
+   • Spare parts availability
+
+7. SIGNATURE
+   Samson Shum
+   Foshan Easyly New Technology Co., Ltd.
+   [Date]
+
+================================================================================
+PRICING STRATEGY GUIDE
+================================================================================
+
+PRICE RANGE BY PRODUCT:
+----------------------
+1. Car Driving Simulator (YSL2021-86):
+   • Single unit: $8,000-$12,000
+   • 2-5 units: $7,000-$10,000 per unit
+   • 10+ units: $6,000-$8,000 per unit
+
+2. 6-DOF Racing Platform:
+   • Single unit: $15,000-$25,000
+   • 2-5 units: $12,000-$20,000 per unit
+   • 10+ units: $10,000-$15,000 per unit
+
+3. Heavy Vehicle Simulator:
+   • Single unit: $15,000-$30,000
+   • 2-5 units: $12,000-$25,000 per unit
+   • 10+ units: $10,000-$20,000 per unit
+
+4. Electric Training Vehicle:
+   • Single unit: $20,000-$35,000
+   • 2-5 units: $18,000-$30,000 per unit
+   • 10+ units: $15,000-$25,000 per unit
+
+5. Custom Motion Platform:
+   • Starting at: $20,000 (varies by specifications)
+
+DISCOUNT STRATEGY:
+-----------------
+• Volume discounts: 5-20% based on quantity
+• Early payment discount: 2-5% for 100% upfront
+• Reference discount: 5% for allowing customer reference
+• Bundle discount: 5-10% for multiple products
+
+NEGOTIATION TIPS:
+----------------
+1. Start 10-15% above your target price
+2. Always offer something in exchange for discounts
+3. Never drop below minimum acceptable price
+4. Bundle products to increase value without reducing price
+5. Offer extended warranty instead of price reduction
+
+================================================================================
+EMAIL TRACKING TEMPLATE
+================================================================================
+
+Use this template to track all outreach:
+
+Date | Target | Email Subject | Status | Reply Date | Notes
+-----|--------|--------------|--------|------------|-------
+Jul 6 | AAA Academy | Cut fuel costs... | Sent | | Initial contact
+Jul 6 | DriveWise | Cut fuel costs... | Sent | | Initial contact
+Jul 7 | Fletcher | Cut fuel costs... | Sent | | Initial contact
+
+Status Codes:
+S = Sent
+R = Reply received (positive)
+NR = Reply received (negative/not interested)
+F = Follow-up sent
+C = Call scheduled
+Q = Quote sent
+W = Won
+L = Lost
+
+================================================================================
+END OF WEEKLY PLAN
+================================================================================
+
+For questions or updates:
+260240751@qq.com | +86 13798624342
+www.studycar.com/en/
