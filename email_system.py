@@ -380,6 +380,9 @@ def generate_multilingual_campaign(target_regions: List[str]) -> Dict:
         region_emails = []
         
         for language in languages:
+            # Skip languages that aren't defined
+            if language not in LANGUAGES:
+                continue
             # Generate templates for different customer types in each language
             for customer_type in ["b2b_driving_school", "b2b_flight_school", "b2b_cdl"]:
                 for product in ["automotive", "flight"]:
@@ -428,9 +431,11 @@ def main():
         }
     }
     
+    generated_campaigns = {}
     for campaign_name, config in campaigns.items():
         print(f"\n📧 Generating {campaign_name} campaign...")
         campaign = generate_email_campaign(campaign_name, config["customer_types"], config["product"], config["language"])
+        generated_campaigns[campaign_name] = campaign
         print(f"   ✓ {campaign['total_emails']} emails generated")
         print(f"   ✓ Campaign duration: {campaign['estimated_duration']}")
     
@@ -442,8 +447,8 @@ def main():
     
     # Export campaigns
     print(f"\n📁 Exporting campaigns...")
-    for campaign_name in campaigns.keys():
-        export_to_csv(campaigns[campaign_name], f"{campaign_name.lower().replace(' ', '_')}_campaign.csv")
+    for campaign_name, generated in generated_campaigns.items():
+        export_to_csv(generated, f"{campaign_name.lower().replace(' ', '_')}_campaign.csv")
     
     print(f"\n✅ Email outreach system ready!")
     print(f"📋 Next steps:")
