@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-07-05T16:07:02.159709",
+  "type": "smtp_smoke_test",
+  "results": [
+    {
+      "email": "vxie@maxizm.com",
+      "status": "VALID",
+      "message": "邮箱存在"
+    },
+    {
+      "email": "sales@oriemac.com",
+      "status": "VALID",
+      "message": "邮箱存在"
+    },
+    {
+      "email": "info@qiaoli.com",
+      "status": "INVALID",
+      "message": "无 MX 记录，域名不存在"
+    },
+    {
+      "email": "sales@micro-packed.com",
+      "status": "INVALID",
+      "message": "无 MX 记录，域名不存在"
+    },
+    {
+      "email": "sales@hbzhongbang.com",
+      "status": "INVALID",
+      "message": "无 MX 记录，域名不存在"
+    },
+    {
+      "email": "sales@vostosun.com",
+      "status": "VALID",
+      "message": "邮箱存在"
+    },
+    {
+      "email": "info@sd-xingke.com",
+      "status": "INVALID",
+      "message": "无 MX 记录，域名不存在"
+    },
+    {
+      "email": "sales@longshine.com",
+      "status": "UNVERIFIED",
+      "message": "响应码: 554"
+    },
+    {
+      "email": "info@naughtydog.com",
+      "status": "UNVERIFIED",
+      "message": "SMTP 连接失败: Connection unexpectedly closed"
+    }
+  ],
+  "summary": {
+    "valid": 3,
+    "invalid": 4,
+    "unverified": 2
+  }
+}
